@@ -1,0 +1,15 @@
+Barra tareas: el logo a la izquierda
+		secciones: Inicio - actividades - traslados - nosotros - contacto
+
+
+Portada: img con texto "DESCUBRI USHUAIA"
+
+¡BIENVENIDOS A MENDOZA!
+y el texto
+
+Sección act y turismo
+
+Traslados
+(igual que en la pag que vimos)
+
+Barra inferior
